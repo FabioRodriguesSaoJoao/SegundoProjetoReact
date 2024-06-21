@@ -1,6 +1,6 @@
 import { useQuery } from "@tanstack/react-query"
 import { AxiosError } from "axios"
-import { AbBotao, AbGrupoOpcao, AbGrupoOpcoes, AbInputQuantidade } from "ds-alurabooks"
+import { AbBotao, AbGrupoOpcao, AbGrupoOpcoes, AbInputQuantidade } from "ds-  books"
 import { useState } from "react"
 import { useParams } from "react-router-dom"
 import BlocoSobre from "../../componentes/BlocoSobre"

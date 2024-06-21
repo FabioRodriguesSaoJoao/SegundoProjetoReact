@@ -1,4 +1,4 @@
-import { AbBotao, AbCampoTexto, AbModal } from "ds-alurabooks"
+import { AbBotao, AbCampoTexto, AbModal } from "ds-  books"
 import { useState } from "react"
 
 import imagemPrincipal from './assets/login.png'

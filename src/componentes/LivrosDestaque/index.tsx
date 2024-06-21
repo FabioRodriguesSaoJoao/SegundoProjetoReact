@@ -1,4 +1,4 @@
-import { AbBotao, AbCard } from "ds-alurabooks"
+import { AbBotao, AbCard } from "ds-  books"
 import { useEffect, useState } from "react"
 import { ILivro } from "../../interfaces/ILivro"
 import { formatador } from "../../utils/formatador-moeda"

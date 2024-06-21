@@ -1,4 +1,4 @@
-import { AbBotao } from "ds-alurabooks"
+import { AbBotao } from "ds-  books"
 import { useEffect, useState } from "react"
 import { IPedido } from "../../interfaces/IPedido"
 import http from "../../http"

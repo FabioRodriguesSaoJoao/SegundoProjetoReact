@@ -44,7 +44,7 @@ const BarraNavegacao = () => {
     return (<nav className="ab-navbar">
         <h1 className="logo">
             <Link to="/">
-                <img className="logo" src={logo} alt="Logo da AluraBooks" />
+                <img className="logo" src={logo} alt="Logo da   books" />
             </Link>
         </h1>
         <ul className="navegacao">

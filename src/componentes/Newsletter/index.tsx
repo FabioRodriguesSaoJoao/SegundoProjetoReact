@@ -1,4 +1,4 @@
-import { AbCampoTexto } from 'ds-alurabooks'
+import { AbCampoTexto } from 'ds-  books'
 import { useState } from 'react'
 import './Newsletter.css'
 

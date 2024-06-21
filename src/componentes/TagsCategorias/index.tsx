@@ -1,4 +1,4 @@
-import { AbTag } from "ds-alurabooks"
+import { AbTag } from "ds-  books"
 
 import './TagsCategorias.css'
 
